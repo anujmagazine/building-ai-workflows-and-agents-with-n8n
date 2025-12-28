@@ -1,0 +1,9 @@
+User Name: Anuj
+
+Submitted: 2025-12-28T08:21:15.362+05:30
+
+Description:
+User Anuj reports that their hardware is broken.
+
+Status: Open
+Prio: Urgent
